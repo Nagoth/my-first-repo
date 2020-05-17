@@ -1,3 +1,53 @@
+commit 30dcb287365eb897c64a2d495b85684faddb37c2
+Merge: 8595180 a1e4934
+Author: Nagoth <naggomezart@unal.edu.co>
+Date:   Sat May 16 22:40:27 2020 -0500
+
+    resuelto
+
+commit 859518041cff50beff2ea80af537dea5c6f1f23a
+Author: Nagoth <naggomezart@unal.edu.co>
+Date:   Sat May 16 22:38:34 2020 -0500
+
+    agrege linea de temperatura
+
+commit a1e4934da67b380f06d671e465e73654033d101c
+Author: Nagoth <naggomezart@unal.edu.co>
+Date:   Sat May 16 22:37:46 2020 -0500
+
+    agrege linea
+
+commit 940328fa57e504083bc9b2c61896acb7730f340b
+Merge: 3abc34a dad7e41
+Author: Nagoth <naggomezart@unal.edu.co>
+Date:   Sat May 16 22:27:24 2020 -0500
+
+    conflicto resuelto
+
+commit 3abc34adf656fbbbff5ed505f61364e1cd384d78
+Author: Nagoth <naggomezart@unal.edu.co>
+Date:   Sat May 16 22:14:17 2020 -0500
+
+    soleado a feo
+
+commit dad7e4104c4e240813c571bcd3886410c165817c
+Author: Nagoth <naggomezart@unal.edu.co>
+Date:   Sat May 16 22:12:55 2020 -0500
+
+    soleado a oscuro
+
+commit 55b53111070ff568a4ac2648534c1b9555475358
+Author: Nagoth <naggomezart@unal.edu.co>
+Date:   Sat May 16 21:34:21 2020 -0500
+
+    añadi informacion del clima
+
+commit acc3fc66ae0998b4aa11b63237cc8fecc7c5b89e
+Author: Nagoth <naggomezart@unal.edu.co>
+Date:   Sat May 16 21:31:32 2020 -0500
+
+    added a third line to readme.txt
+
 commit e76116af1770e3133e99cfae18e2dea4dee5e38b
 Author: Nagoth <naggomezart@unal.edu.co>
 Date:   Sat May 16 20:07:57 2020 -0500
