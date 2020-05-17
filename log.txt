@@ -1,0 +1,17 @@
+commit e76116af1770e3133e99cfae18e2dea4dee5e38b
+Author: Nagoth <naggomezart@unal.edu.co>
+Date:   Sat May 16 20:07:57 2020 -0500
+
+    added gitignore
+
+commit 8f61ff5607d2e2a586abdd90e40a122f8c29da78
+Author: Nagoth <naggomezart@unal.edu.co>
+Date:   Sat May 16 18:15:55 2020 -0500
+
+    added two files
+
+commit 729295728d27b1b55f2c0294487be6b4731131bf
+Author: Nagoth <naggomezart@unal.edu.co>
+Date:   Sat May 16 17:58:45 2020 -0500
+
+    added readme.txt
